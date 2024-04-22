@@ -39,7 +39,7 @@
     <div class="container">
         <a href="https://github.com/CalvinChristian27/Final-Project-OOP">
             <img src="https://uploads-ssl.webflow.com/62256e3694580b7ffbcea5c7/6225a98494580b3d16d025e2_folder.png" sizes="120px" srcset="https://uploads-ssl.webflow.com/62256e3694580b7ffbcea5c7/6225a98494580b3d16d025e2_folder-p-500.png 500w, https://uploads-ssl.webflow.com/62256e3694580b7ffbcea5c7/6225a98494580b3d16d025e2_folder-p-800.png 800w, https://uploads-ssl.webflow.com/62256e3694580b7ffbcea5c7/6225a98494580b3d16d025e2_folder.png 1024w" alt="blue folder" class="image">
-            <div>
+            <div class="text">
                 <p>Puskesmas Dangun Java Project</p>
             </div>
         </a>
