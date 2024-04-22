@@ -1,0 +1,39 @@
+.container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+
+.image-container {
+    position: relative;
+    width: 500px;
+    height: 800px;
+    overflow: hidden;
+    margin-right: 3px;
+}
+
+.image-container img {
+    position: absolute;
+    left: -100%;
+    animation: slideImage 2s forwards;
+}
+
+.text-container {
+    position: relative;
+    margin-left: 3px;
+    opacity: 0;
+    animation: slideText 5s forwards;
+}
+
+@keyframes slideImage {
+    100% {
+        left: 0;
+    }
+}
+
+@keyframes slideText {
+    100% {
+        opacity: 1;
+    }
+}
