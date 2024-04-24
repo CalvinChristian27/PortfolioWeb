@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Calvin Christian Ho</title>
-    <link rel="stylesheet" href="<?php echo e(asset('animationFirstPage.css')); ?>">
     <style>
         .container {
             position: relative;
@@ -61,6 +60,5 @@
             <a style=" line-height: 4; color: #072bf5;" href="<?php echo e(route('Menu')); ?>">CLICK HERE</a>
         </div>
     </div>
-    <script src="<?php echo e(asset('scriptFirstPage.js')); ?>"></script>
 </body>
 </html><?php /**PATH C:\Users\calvin\MyPortfolio\resources\views/welcome.blade.php ENDPATH**/ ?>

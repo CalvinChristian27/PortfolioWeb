@@ -44,7 +44,7 @@
 <body>
     <h1><span class="underline-blue">Contact Me</span></h1>
     <div style="margin-top: 35px; margin-bottom: 30px;">
-        <p> Interested in me and want to chat or ask more questions with me? Visit me at my university in <a href="https://binus.ac.id/malang/">Binus University Malang</a> and we can chat together. Or you can also chat with me via my social media</p>
+        <p> Interested in me and want to chat or ask more questions with me? Visit me at my university in <a href="https://binus.ac.id/malang/">Binus University Malang</a> and we can chat together. Or you can also chat with me via my social media.</p>
     </div>
     <div class="container">
         <div style="width: 520px; height: 520px;">

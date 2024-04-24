@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Calvin Christian Ho</title>
-    <link rel="stylesheet" href="{{ asset('animationFirstPage.css') }}">
     <style>
         .container {
             position: relative;
@@ -61,6 +60,5 @@
             <a style=" line-height: 4; color: #072bf5;" href="{{ route('Menu') }}">CLICK HERE</a>
         </div>
     </div>
-    <script src="{{ asset('scriptFirstPage.js') }}"></script>
 </body>
 </html>

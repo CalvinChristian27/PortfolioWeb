@@ -14,8 +14,6 @@
         .underline-blue {
             border-bottom: 5px solid #3b7ddd;
         }
-    </style>
-    <style>
         .spaced-image {
             float: left;
             margin-top: 0;
@@ -23,8 +21,6 @@
             margin-left: 0;
             margin-right: 35px;
         }
-    </style>
-    <style>
         .container {
             display: flex;
             align-items: flex-start;
@@ -35,6 +31,11 @@
         .text-column {
             column-count: 2;
             column-gap: 40px;
+        }
+        .image-container img {
+            position: absolute;
+            left: -100%;
+            animation: slideImage 2s forwards;
         }
     </style>
 </head>
